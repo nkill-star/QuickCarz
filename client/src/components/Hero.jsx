@@ -19,7 +19,7 @@ const Hero = () => {
         initial={{ opacity:0}}
         animate={{ opacity:1}}
         transition={{duration:0.8}}
-        className='h-screen flex flex-col items-center justify-center gap-14 bg-light text-center '>
+        className='h-screen flex flex-col items-center justify-center gap-14 bg-light text-center'>
 
             <motion.h1 initial={{y:50, opacity:0}}
                  animate={{y:0, opacity:1}}
@@ -66,7 +66,7 @@ const Hero = () => {
             initial={{y:100,opacity:0}}
             animate={{y:0, opacity:1}}
             transition={{duration:0.8, delay:0.6}}
-            src={assets.main_car} alt="car" className='max-h-100' />
+            src={assets.main_car} alt="car" className='max-h-80' />
 
         </motion.div>
     )
