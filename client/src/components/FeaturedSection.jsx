@@ -38,7 +38,7 @@ const FeaturedSection = () => {
         {
             
 
-            cars.slice(0,6).map((car)=>(
+            [...cars].reverse().slice(0,6).map((car)=>(
                 <motion.div 
                 initial={{opacity:0, scale:0.95}}
                 whileInView={{opacity:1, scale:1}}

@@ -29,4 +29,9 @@ Backend:
 🟢 Node.js • 🚂 Express.js • 🍃 MongoDB (Mongoose) • 🖼️ ImageKit
 
 📸 Screenshots
-Add screenshots here (e.g., login page, car listing, owner dashboard, booking flow).
+![home-Page](./ss/Screenshot%202025-08-04%20163034.png)
+![featured-Page](./ss/Screenshot%202025-08-04%20164237.png)
+![cars-Page](./ss/Screenshot%202025-08-04%20164324.png)
+![login-Page](./ss/Screenshot%202025-08-04%20164413.png)
+![signup-Page](./ss/Screenshot%202025-08-04%20164447.png)
+![ownerDashboard-Page](./ss/Screenshot%202025-08-04%20164551.png)
